@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="art/logo.svg" width="112" height="112" alt="AI Hub Remote &mdash; public pages logo">
+<img src="art/app-icon.png" width="112" height="112" alt="AI Hub Remote &mdash; public pages logo">
 
 # AI Hub Remote &mdash; public pages
 
